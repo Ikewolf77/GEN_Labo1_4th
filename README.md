@@ -2,6 +2,7 @@
 
 1st change
 <<<<<<< HEAD
+<<<<<<< HEAD
 2nd
 3rd
 <<<<<<< HEAD
@@ -12,3 +13,7 @@ dev
 exp change
 >>>>>>> experimental
 >>>>>>> dev
+=======
+exp change
+crazy
+>>>>>>> crazy_idea
