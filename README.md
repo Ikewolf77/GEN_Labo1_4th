@@ -2,6 +2,7 @@
 
 1st change
 <<<<<<< HEAD
+<<<<<<< HEAD
 2nd
 3rd
 <<<<<<< HEAD
@@ -16,6 +17,13 @@ exp change
 dev2nd
 =======
 >>>>>>> dev
+<<<<<<< HEAD
 >>>>>>> master
 
 dev 3rd
+=======
+=======
+exp change
+crazy
+>>>>>>> crazy_idea
+>>>>>>> master
