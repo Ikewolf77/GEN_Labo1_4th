@@ -18,5 +18,9 @@ exp change
 crazy
 >>>>>>> crazy_idea
 
+<<<<<<< HEAD
 
 X
+=======
+bug fix
+>>>>>>> bug_fix
